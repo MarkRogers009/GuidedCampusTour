@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', function onLoad() {
 
     document.getElementById("navbarV").innerHTML += `
         <ul>
-            <li><a href="AGT Adaptive.html">Home</a></li>
+            <li><a href="index.html">Home</a></li>
             <div class="separator"></div>
 
         `
