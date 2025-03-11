@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', function onLoad() {
 
 
 
-    document.getElementById("navbarV").innerHTML += `
+    document.getElementById("navbar").innerHTML += `
         <ul>
             <li><a href="index.html">Home</a></li>
             <div class="separator"></div>
