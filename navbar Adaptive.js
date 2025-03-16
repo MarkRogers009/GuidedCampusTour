@@ -1,14 +1,9 @@
 document.addEventListener('DOMContentLoaded', function onLoad() {
 
-    let strIn = "";
-    if (document.referrer.length) {
-        strIn = document.referrer.substring(document.referrer.indexOf("?"));
-    } else {
-        strIn = window.location.search;
-    }
-
-    const view = new URLSearchParams(strIn);
-
+    //Find the view
+    const view = new URLSearchParams(window.location.search);
+    
+    //Construct the navbar based on the current view.
     let viewHTML = "";
     if (view.get("view")) {
         switch (view.get("view").toLowerCase()) {
@@ -122,4 +117,10 @@ document.addEventListener('DOMContentLoaded', function onLoad() {
             </li>
         </ul>
     `;
+    //Append appropriate view to all links on the page.
+    if (view.get("view")) {
+        for (const element of document.getElementsByTagName("a")) {
+            element.href += window.location.search;
+        }
+    }
 });
