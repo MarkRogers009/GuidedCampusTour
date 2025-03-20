@@ -126,10 +126,14 @@ li.dropdown {
 
 /* image */
 .image img{
-  width: 75%;
+  width: 100%;
 }
 
 /* text */
 body {
   color: #ffffff;
+}
+
+.wrapper{
+  display: flex;
 }
