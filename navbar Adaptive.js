@@ -26,17 +26,16 @@ document.addEventListener('DOMContentLoaded', function onLoad() {
                     <li class="dropdown"><a href="Student.html" class="dropbtn">Student</a>
                         <div class="dropdown-content">
                             <a href="AH.html">Allyn Hall</a>
-                            <a href="BS1.html">Biological Sciences I</a>
-                            <a href="BS2.html">Biological Sciences II</a>
+                            <a href="BS1&2.html">Biological Sciences I & II</a>
                             <a href="BL.html">Brehm Laboratory</a>
                             <a href="CAC.html">Creative Arts Center</a>
                             <a href="DL.html">Diggs Laboratory</a>
-                            <a href="DLPL.html">Dunbar Library, Paul Laurence</a>
+                            <a href="DBL.html">Dunbar Library, Paul Laurence</a>
                             <a href="LA.html">Library Annex</a>
-                            <a href="FH.html">Fawcett Hall</a>
+                            <a href="FCH.html">Fawcett Hall</a>
                             <a href="HS.html">Health Sciences</a>
                             <a href="JRC.html">Joshi Research Center</a>
-                            <a href="MMS.html">Mathematical and Microbiological Sciences</a>
+                            <a href="M&MS.html">Mathematical and Microbiological Sciences</a>
                             <a href="MS.html">Medical Sciences</a>
                             <a href="MH.html">Millett Hall</a>
                             <a href="NEC.html">Neuroscience Engineering Collaboration</a>
@@ -45,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function onLoad() {
                             <a href="REC.html">Russ Engineering Center</a>
                             <a href="SSC.html">Student Success Center</a>
                             <a href="SU.html">Student Union</a>
-                            <a href="THCMP.html">Tom Hanks Center for Motion Pictures</a>
+                            <a href="THMP.html">Tom Hanks Center for Motion Pictures</a>
                             <a href="UH.html">University Hall</a>
                             <a href="WH.html">White Hall</a>
                         </div>
@@ -57,17 +56,16 @@ document.addEventListener('DOMContentLoaded', function onLoad() {
                     <li class="dropdown"><a href="Staff.html" class="dropbtn">Staff</a>
                         <div class="dropdown-content">
                             <a href="AH.html">Allyn Hall</a>
-                            <a href="BS1.html">Biological Sciences I</a>
-                            <a href="BS2.html">Biological Sciences II</a>
+                            <a href="BS1&2.html">Biological Sciences I & II</a>
                             <a href="BL.html">Brehm Laboratory</a>
                             <a href="CAC.html">Creative Arts Center</a>
                             <a href="DL.html">Diggs Laboratory</a>
-                            <a href="DLPL.html">Dunbar Library, Paul Laurence</a>
+                            <a href="DBL.html">Dunbar Library, Paul Laurence</a>
                             <a href="LA.html">Library Annex</a>
-                            <a href="FH.html">Fawcett Hall</a>
+                            <a href="FCH.html">Fawcett Hall</a>
                             <a href="HS.html">Health Sciences</a>
                             <a href="JRC.html">Joshi Research Center</a>
-                            <a href="MMS.html">Mathematical and Microbiological Sciences</a>
+                            <a href="M&MS.html">Mathematical and Microbiological Sciences</a>
                             <a href="MS.html">Medical Sciences</a>
                             <a href="MH.html">Millett Hall</a>
                             <a href="NEC.html">Neuroscience Engineering Collaboration</a>
@@ -76,7 +74,7 @@ document.addEventListener('DOMContentLoaded', function onLoad() {
                             <a href="REC.html">Russ Engineering Center</a>
                             <a href="SSC.html">Student Success Center</a>
                             <a href="SU.html">Student Union</a>
-                            <a href="THCMP.html">Tom Hanks Center for Motion Pictures</a>
+                            <a href="THMP.html">Tom Hanks Center for Motion Pictures</a>
                             <a href="UH.html">University Hall</a>
                             <a href="WH.html">White Hall</a>
                         </div>
